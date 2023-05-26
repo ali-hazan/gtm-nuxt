@@ -19,8 +19,4 @@ function triggerEvent() {
     noninteraction: false,
   });
 }
-
-
-
-
 </script>
